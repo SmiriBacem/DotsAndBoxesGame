@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DotsAndBoxesGame/static/css/main.7739bc0f.chunk.css",
+    "main.js": "/DotsAndBoxesGame/static/js/main.2248c0eb.chunk.js",
+    "main.js.map": "/DotsAndBoxesGame/static/js/main.2248c0eb.chunk.js.map",
+    "runtime-main.js": "/DotsAndBoxesGame/static/js/runtime-main.68d4ec01.js",
+    "runtime-main.js.map": "/DotsAndBoxesGame/static/js/runtime-main.68d4ec01.js.map",
+    "static/js/2.1836de6c.chunk.js": "/DotsAndBoxesGame/static/js/2.1836de6c.chunk.js",
+    "static/js/2.1836de6c.chunk.js.map": "/DotsAndBoxesGame/static/js/2.1836de6c.chunk.js.map",
+    "static/js/3.e920d9e6.chunk.js": "/DotsAndBoxesGame/static/js/3.e920d9e6.chunk.js",
+    "static/js/3.e920d9e6.chunk.js.map": "/DotsAndBoxesGame/static/js/3.e920d9e6.chunk.js.map",
+    "index.html": "/DotsAndBoxesGame/index.html",
+    "static/css/main.7739bc0f.chunk.css.map": "/DotsAndBoxesGame/static/css/main.7739bc0f.chunk.css.map",
+    "static/js/2.1836de6c.chunk.js.LICENSE.txt": "/DotsAndBoxesGame/static/js/2.1836de6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68d4ec01.js",
+    "static/js/2.1836de6c.chunk.js",
+    "static/css/main.7739bc0f.chunk.css",
+    "static/js/main.2248c0eb.chunk.js"
+  ]
+}
