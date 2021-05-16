@@ -12,7 +12,7 @@ export const Win = () => {
       </h4>
       <button
         onClick={() => {
-          history.push("/");
+          history.push("/DotsAndBoxesGame");
         }}
       >
         Start a new game
