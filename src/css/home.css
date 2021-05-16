@@ -1,0 +1,20 @@
+button {
+  border-radius: 20px;
+  width: 45%;
+  height: 20%;
+  background-color: rgb(255, 145, 0);
+  color: white;
+  border: none;
+}
+
+input {
+  width: 100%;
+  border-color: rgb(83, 70, 69);
+  border-radius: 10px;
+}
+
+input:active {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+}

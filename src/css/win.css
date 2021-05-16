@@ -1,0 +1,11 @@
+.winText {
+  font-family: cursive;
+  color: crimson;
+}
+button {
+  border-radius: 20px;
+  width: 60%;
+  background-color: rgb(255, 145, 0);
+  color: white;
+  border: none;
+}

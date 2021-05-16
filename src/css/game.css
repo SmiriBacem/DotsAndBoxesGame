@@ -1,0 +1,45 @@
+#game {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.dot {
+  height: 7px;
+  width: 5px;
+  background-color: rgb(201, 65, 183);
+  border-radius: 2px;
+}
+
+.box {
+  height: 47px;
+  width: 46px;
+}
+
+.horizContainer {
+  height: 6px;
+  width: 47px;
+  border: 2px;
+}
+
+.vertContainer {
+  height: 47px;
+  width: 6px;
+  border: 2px;
+}
+
+#board {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 50px;
+  margin: 10px;
+}
+
+#header {
+  padding: 10px 50px;
+  margin: 10px;
+}
